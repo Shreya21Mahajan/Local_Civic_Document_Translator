@@ -1,8 +1,8 @@
--Civic Translator
+- Civic Translator
 
 A simple tool to understand government documents in your own language
 
-#Overview
+# Overview
 
 Civic Translator is designed to make public documents easier to understand. Many government notices, forms, and policies are written in complex or unfamiliar languages. This project helps translate and simplify such content so that anyone can read and understand it without confusion.
 
