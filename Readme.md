@@ -1,4 +1,4 @@
-- Civic Translator
+# Civic Translator
 
 A simple tool to understand government documents in your own language
 
@@ -8,40 +8,40 @@ Civic Translator is designed to make public documents easier to understand. Many
 
 The goal is to reduce the language barrier and make civic information accessible to everyone.
 
-#Features
-Translate civic documents into multiple languages
-Support for text, PDF, and image-based inputs
-Extract text from images using OCR
-Simplified output for better understanding
-Fast and lightweight processing
-Secure handling of user data
+# Features
+- Translate civic documents into multiple languages
+- Support for text, PDF, and image-based inputs
+- Extract text from images using OCR
+- Simplified output for better understanding
+- Fast and lightweight processing
+- Secure handling of user data
 
-#Tech Stack
-Frontend
+# Tech Stack
+- Frontend
 HTML, CSS, JavaScript
 
-Backend
+- Backend
 Python (Flask / FastAPI)
 
-APIs & Tools
+- APIs & Tools
 OCR (Tesseract / Azure Vision)
 
-Optional Enhancements
+- Optional Enhancements
 Speech-to-text (voice input)
 Text-to-speech (audio output)
 
-#Use Cases
-Understanding government schemes
-Translating official notices
-Helping rural or non-English speakers
-Assisting students with civic documents
+# Use Cases
+- Understanding government schemes
+- Translating official notices
+- Helping rural or non-English speakers
+- Assisting students with civic documents
 
-#Future Improvements
-Offline translation model
-Regional dialect support
-Document summarization
-Mobile app version
-AI-based explanation of legal terms
+# Future Improvements
+- Offline translation model
+- Regional dialect support
+- Document summarization
+- Mobile app version
+- AI-based explanation of legal terms
 
 #Contribution
 Contributions are welcome.
