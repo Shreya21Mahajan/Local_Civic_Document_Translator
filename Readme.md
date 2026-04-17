@@ -43,6 +43,6 @@ Text-to-speech (audio output)
 - Mobile app version
 - AI-based explanation of legal terms
 
-#Contribution
+# Contribution
 Contributions are welcome.
 If you have ideas or improvements, feel free to open an issue or submit a pull request.
