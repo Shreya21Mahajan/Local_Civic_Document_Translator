@@ -1,0 +1,6 @@
+kagglehub
+pandas
+datasets
+transformers
+torch
+sentencepiece
