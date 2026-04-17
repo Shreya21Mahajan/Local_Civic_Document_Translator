@@ -1,4 +1,4 @@
-#Civic Translator
+-Civic Translator
 
 A simple tool to understand government documents in your own language
 
